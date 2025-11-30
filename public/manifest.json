@@ -1,0 +1,28 @@
+{
+    "short_name": "MW Sports",
+        "name": "MayorWardProd Sports Lab",
+            "description": "Advanced NFL game simulations, prop predictions, parlays, matchups, and analytics powered by MW Sports Lab.",
+                "icons": [
+                    {
+                        "src": "/favicon-192.png",
+                        "sizes": "192x192",
+                        "type": "image/png",
+                        "purpose": "any maskable"
+                    },
+                    {
+                        "src": "/favicon-512.png",
+                        "sizes": "512x512",
+                        "type": "image/png",
+                        "purpose": "any maskable"
+                    }
+                ],
+                    "start_url": "/",
+                        "scope": "/",
+                            "display": "standalone",
+                                "theme_color": "#0e1d5a",
+                                    "background_color": "#000000",
+                                        "orientation": "portrait-primary",
+                                            "id": "com.mw.sportslab",
+                                                "categories": ["sports", "analytics", "utilities"]
+}
+
