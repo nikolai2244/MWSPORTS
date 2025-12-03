@@ -1,5 +1,5 @@
 import React from 'react';
-import HomeHero from '../HomeHero';
+import HomeHero from './HomeHero';
 import { Link } from 'react-router-dom';
 
 function HomePage() {
